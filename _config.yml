@@ -1,7 +1,27 @@
+#updated version
 theme: minima
 skin: dark # Minima theme settings
 title: Personal blog - Where all my ideas go to play
 author: Cam3lnet
-description: >- # this means to ignore newlines until "baseurl:"
-              Welcome to my GitHub Pages site.
-logo: /assets/logo.jpg
+description: Welcome to my GitHub Pages site.
+url: "https://cam3lnet.github.io" # Your website URL
+baseurl: "" # Base URL for your site
+social:
+  github: Cam3lnet
+
+highlighter: rouge  # Syntax highlighter
+markdown: kramdown # Markdown parser
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+logo: /assets/logo.jpg # Ensure this path is correct
