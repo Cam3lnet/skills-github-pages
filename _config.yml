@@ -15,4 +15,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-logo: /assets/logo.jpg # Ensure this path is correct
