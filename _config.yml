@@ -4,8 +4,7 @@ skin: dark # Minima theme settings
 title: Personal blog - Where all my ideas go to play
 author: Cam3lnet
 description: Welcome to my GitHub Pages site.
-url: "https://cam3lnet.github.io" # Your website URL
-baseurl: "" # Base URL for your site
+url: "https://cam3lnet.github.io/skills-github-pages/" # Your website URL
 social:
   github: Cam3lnet
 
@@ -21,7 +20,7 @@ nav:
   - title: "About"
     url: "/about"
   - title: "Blog"
-    url: "/blog"
+    url: "https://cam3lnet.github.io/skills-github-pages/"
   - title: "Contact"
     url: "/contact"
 logo: /assets/logo.jpg # Ensure this path is correct
