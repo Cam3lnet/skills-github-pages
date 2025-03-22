@@ -1,4 +1,4 @@
 ---
-title: ***Where all my ideas go to play***
+title: Where all my ideas go to play
 ---
 
