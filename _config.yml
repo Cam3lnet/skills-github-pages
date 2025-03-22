@@ -1,4 +1,7 @@
 theme: minima
-title: Personal blog
+skin: dark # Minima theme settings
+title: Personal blog - Where all my ideas go to play
 author: Cam3lnet
-description: personal blog for a Dev experience journey
+description: >- # this means to ignore newlines until "baseurl:"
+              Welcome to my GitHub Pages site.
+logo: /assets/logo.png
