@@ -14,13 +14,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Blog"
-    url: "https://cam3lnet.github.io/skills-github-pages/"
-  - title: "Contact"
-    url: "/contact"
 logo: /assets/logo.jpg # Ensure this path is correct
