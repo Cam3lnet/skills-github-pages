@@ -1,5 +1,5 @@
 #updated version
-logo: /assets/logo.jpg # Ensure this path is correct
+logo: assets/logo.jpg # Ensure this path is correct
 theme: minima
 skin: dark # Minima theme settings
 title: Personal blog - Where all my ideas go to play
