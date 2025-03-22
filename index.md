@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: ***Where all my ideas go to play***
 ---
 
